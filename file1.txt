@@ -1,1 +1,5 @@
-hello aniekan i am okay oooo
+<<<<<<< HEAD
+hello aniekan
+=======
+hello aniekan how are you today?
+>>>>>>> feature
