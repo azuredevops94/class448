@@ -15,7 +15,7 @@ stages {
 
 stage('Checkout Code') {
 steps {
-git 'https://github.com/<username>/devops-app.git'
+git 'https://github.com/azuredevops94/class448'
 }
 }
 
